@@ -1,0 +1,5 @@
+As a note, Instr.h was modified to have a critical flag variable, so I could print out only non deadcode later on. 
+
+To run, do ./deadcode < input > output
+
+
